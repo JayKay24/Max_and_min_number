@@ -1,0 +1,1 @@
+# This function finds the maximum and minimum number in a list and returns them as a list.
